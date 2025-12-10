@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Summary</title>
 </head>
 <body>
     <h1>Project Summary</h1>
@@ -33,7 +32,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ملخص المشروع</title>
 </head>
 <body>
     <h1>ملخص المشروع</h1>
