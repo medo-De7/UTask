@@ -1,13 +1,32 @@
-<h1>UTask--Repo-Branch</h1> 
-  <h2>Repo</h2>
-    <p>This Repo is Created By Project Owner "Mohamed Hytham"</p>
-  <h2>The Main Members</h2>
-    <h2>Members:-</h2>
-    <p>Kareem Alhusieny (PSM-Graphic Designer)
-      Mohamed Hytham (BAF Admin - Repo Owner)
-      Ahmed Emad (DB Manager and Modifier-Mobile App Devlopement Admin)</p>
-  <h2>The MainMembersProfiles [Username && Emails]-</h2>
-    <h2>Profiles:-</h2>
-      <p>     <K (UN && EM)> medo-de7 (UN && mohamedhwtham5000@gmail.com)
-      <A (UN && EM)></p>
-<h1>Utask--Leaf</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Summary</title>
+</head>
+<body>
+    <h1>Project Summary</h1>
+
+    <h2>🔹 Key Issues to Address in the Project</h2>
+    <ul>
+        <li><strong>Ease of Use</strong> — Simple interface for beginners.</li>
+        <li><strong>Advanced Analytics</strong> — Track daily activity, habits, and achievements.</li>
+        <li><strong>Dynamic Task Organization</strong> — Tables, daily lists, priorities, reminders.</li>
+        <li><strong>All Features Free</strong> — Ensure users do not need paid subscriptions for core features.</li>
+        <li><strong>Comprehensive Collaboration</strong> — Easy task sharing among multiple users.</li>
+        <li><strong>Attractive and Interactive Design</strong> — Interface should be functional and enjoyable.</li>
+    </ul>
+
+    <h2>🔹 Features to Include</h2>
+    <ul>
+        <li><strong>Daily and Monthly Task Management</strong></li>
+        <li><strong>Support for Multiple Lists and Tables</strong></li>
+        <li><strong>Dynamic Reminders and Deadlines</strong></li>
+        <li><strong>Daily and Monthly Reports & Analytics</strong></li>
+        <li><strong>Multi-User Collaboration Support</strong></li>
+        <li><strong>Simple and Easy-to-Learn Interface</strong></li>
+        <li><strong>Full Free Experience with No Restrictions on Core Features</strong></li>
+    </ul>
+</body>
+</html>
