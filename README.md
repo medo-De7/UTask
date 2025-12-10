@@ -7,7 +7,6 @@
 </head>
 <body>
     <h1>Project Summary</h1>
-
     <h2>🔹 Key Issues to Address in the Project</h2>
     <ul>
         <li><strong>Ease of Use</strong> — Simple interface for beginners.</li>
@@ -17,7 +16,6 @@
         <li><strong>Comprehensive Collaboration</strong> — Easy task sharing among multiple users.</li>
         <li><strong>Attractive and Interactive Design</strong> — Interface should be functional and enjoyable.</li>
     </ul>
-
     <h2>🔹 Features to Include</h2>
     <ul>
         <li><strong>Daily and Monthly Task Management</strong></li>
